@@ -1,1 +1,1 @@
-# Link-Predictio-in-Social-Network
+# Link-Prediction-in-Social-Network
